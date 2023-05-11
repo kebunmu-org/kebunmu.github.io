@@ -1,7 +1,7 @@
 [
   {
-    "title": "Free Consultation",
-    "description": "New clients receive an obligation free consultation.",
+    "title": "Join our Team",
+    "description": "Be a part of reforestation initiatives in Indonesia.",
     "image": {
       "url": "images/features/noun_branding_1885335.svg",
       "width": 80,
@@ -9,8 +9,8 @@
     }
   },
   {
-    "title": "Certified Accountants",
-    "description": "All members of our team are certified accountants.",
+    "title": "Become a Sponsor",
+    "description": "Provide the financial backing for creating new jobs and restoring the environment.",
     "image": {
       "url": "images/features/noun_The Process_1885341.svg",
       "width": 80,
@@ -18,8 +18,8 @@
     }
   },
   {
-    "title": "Tax Compliance",
-    "description": "We stay up to date on the latest changes to the tax code.",
+    "title": "Follow Along",
+    "description": "Stay up to date on the latest restoration initiatives in Indonesia",
     "image": {
       "url": "images/features/noun_3d modeling_1885342.svg",
       "width": 80,
