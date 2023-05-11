@@ -9,4 +9,4 @@ intro_image_hide_on_mobile: true
 
 # How to Support our Work
 
-Call to Action
+We need everyone in the fight for arborial diversity.
